@@ -1,3 +1,8 @@
+# markupProject: Ghostbusters
+A fictitous ghostbusters agency web page for paranormal investigators Eun, Hugh, and George. The webpage contains a responsive navigation bar, a team members information section, and a contact form for getting in touch.  
+
+<br> View web page here: https://georgeklemperer.github.io/markupProject/.
+
 ## 1. Structure a site using semantic HTML to aid accessibility
 <img width="100%" alt="image" src="https://github.com/GeorgeKlemperer/george-portfolio/assets/124908931/92a45e25-d23a-450f-8776-f9fbdc1c35c8">
 
@@ -32,12 +37,12 @@ Media queries were used to display/hide particular elements (for example, the na
 
 CSS primitives were used to ensure consistent styling, and high styling tractability.
 
-## 9. Ensure our Git commit history tells a coherent story
+## 7. Ensure our Git commit history tells a coherent story
 <img width="100%" alt="image" src="https://github.com/GeorgeKlemperer/george-portfolio/assets/124908931/9abe81ab-425e-4298-8d75-20c27b810099">
 
 Git commit messages were consistent and clear. Features were develped on individual branches before being merged into main when completed. 
 
-## 10. Use the appropriate input types in HTML forms for gathering different types of information
+## 8. Use the appropriate input types in HTML forms for gathering different types of information
 <img width="100%" alt="image" src="https://github.com/GeorgeKlemperer/george-portfolio/assets/124908931/3dffb724-903b-4a79-b52e-a3bf11c9093b">
 
 Submission form was incorporated with a vareity of appropriate input types (text, radio, checkbox etc.) <br>
