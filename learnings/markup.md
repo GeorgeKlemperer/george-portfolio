@@ -1,6 +1,8 @@
 # markupProject: Ghostbusters
 A fictitous ghostbusters agency web page for paranormal investigators Eun, Hugh, and George. The webpage contains a responsive navigation bar, a team members information section, and a contact form for getting in touch.  
 
+All Founders and Coders projects are collaborative between two people. My partner for this project was Eun Na.
+
 <br> View web page here: https://georgeklemperer.github.io/markupProject/.
 
 ## 1. Structure a site using semantic HTML to aid accessibility
