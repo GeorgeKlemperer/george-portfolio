@@ -27,8 +27,12 @@ A loading gif is displayed while the submitted queries are fetched.
 
 <img width="100%" alt="image" src="https://github.com/GeorgeKlemperer/george-portfolio/assets/124908931/29306196-a4ee-4ebf-8f7e-05ed4cc15a4c">
 
-In the event there is no APOD for the date selected (or the APOD is not a picture, as it is occasionally a video) an eerror message is displayed to the user and a random space related image is instead fetched from the Unsplash API. If there is no headline for the date and news category selected by the user a different error message is displayed. Both those scenarios are displayed in the above screenshot.
+In the event there is no APOD for the date selected (or the APOD is not a picture, as it is occasionally a video) an error message is displayed to the user and a random space related image is instead fetched from the Unsplash API. If there is no headline for the date and news category selected by the user a different error message is displayed. Both those scenarios are displayed in the above screenshot.
 
 ## 5. Debug client side JS in our web browser
+<img width="1156" alt="image" src="https://github.com/GeorgeKlemperer/george-portfolio/assets/124908931/6c08d941-581e-487b-be48-417e0bac1b6c">
+For debugging client-side JavaScript in our web browser, we extensively utilized Chrome's browser inspect tool, which allowed us to effectively test the code by setting breakpoints and pausing execution.
 
 ## 6. Use console.log() to help us debug our code
+
+<img width="1224" alt="image" src="https://github.com/GeorgeKlemperer/george-portfolio/assets/124908931/c0ddb64c-6b81-4426-b019-406f9639947f">
