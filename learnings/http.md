@@ -7,27 +7,19 @@ View web page here: https://georgeklemperer.github.io/theOrbituaries/.
 
 ## 1. Write code that executes asynchronously
 <img width="100%" alt="image" src="https://github.com/GeorgeKlemperer/george-portfolio/assets/124908931/daf2255c-4b15-4b5b-a360-937cb0f88ef6">
-One example of asynchronous code used in the website where we fetch the APOD HD url from NASA's APOD API.
-
-## 2. Use callbacks to access values that aren’t available synchronously
-
-## 3. Use promises to access values that aren’t available synchronously
-
-## 4. Use the fetch method to make HTTP requests and receive responses
-
-## 5. Configure the options argument of the fetch method to make GET and POST requests
-
-## 6. Use the map array method to create a new array containing new values
-
-## 7. Use the filter array method to create a new array with certain values removed
+One example of asynchronous code used in the website where we fetch the APOD HD url from NASA's APOD API. Fetch is used to generate a promise and .then() and .catch() methods are used to schedule callback functions. Similar asynchronous code was used to fetch from the Guardian's and Unsplash's APIs. 
 
 ## 8. Access DOM nodes using a variety of selectors
+A vareity of DOM nodes were accessed using a variety of selectors. In the above code the APOD is inserted as the background imgae for an element. In the below code a different element has a Guardian headline and URL link inserted into it.
 
-## 9. Add and remove DOM nodes to change the content on the page
+<img width="100%" alt="image" src="https://github.com/GeorgeKlemperer/george-portfolio/assets/124908931/cd96f96a-aa24-4f4e-8f28-ff29901dc4b8">
 
-## 10. Toggle the classes applied to DOM nodes to change their CSS properties
+## 11. Display a loading indicator during an API fetch
 
-## 11. Use consistent layout and spacing
+<img width="1010" alt="image" src="https://github.com/GeorgeKlemperer/george-portfolio/assets/124908931/df83f090-6472-4967-b725-2fcc2ef2304b">
+
+A loading gif is displayed while the submitted queries are fetched.
+
 
 ## ?. Mobile-first design
 
