@@ -41,3 +41,10 @@ Console.log() was regularly used to help debug, especially with API's where it c
 Also, to gain insights into the data retrieved from the API's database and facilitate the data processing for user display, we utilized console.log(data). This helped us understand the content of the data and enabled us to make informed decisions on how to handle and present it effectively.
 
 <img width="100%" alt="image" src="https://github.com/GeorgeKlemperer/george-portfolio/assets/124908931/c0ddb64c-6b81-4426-b019-406f9639947f">
+
+## 7. Employ a mobile-first design
+The website was designed mobile-first to simplify CSS and allow accessability by a wide array of users. Additional elements are displayed on larger screens.
+
+<div align='center'>
+<img width="408" alt="image" src="https://github.com/GeorgeKlemperer/george-portfolio/assets/124908931/559dcfd9-76fd-43ff-8048-72553d24c048">
+</div>
