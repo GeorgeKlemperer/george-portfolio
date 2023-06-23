@@ -3,7 +3,7 @@ A fictitous ghostbusters agency web page for paranormal investigators Eun, Hugh,
 
 All Founders and Coders projects are collaborative between two people. My partner for this project was Eun Na.
 
-<br> View web page here: https://georgeklemperer.github.io/markupProject/.
+View web page here: https://georgeklemperer.github.io/markupProject/.
 
 ## 1. Structure a site using semantic HTML to aid accessibility
 <img width="100%" alt="image" src="https://github.com/GeorgeKlemperer/george-portfolio/assets/124908931/92a45e25-d23a-450f-8776-f9fbdc1c35c8">
