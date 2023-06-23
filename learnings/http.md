@@ -30,9 +30,14 @@ A loading gif is displayed while the submitted queries are fetched.
 In the event there is no APOD for the date selected (or the APOD is not a picture, as it is occasionally a video) an error message is displayed to the user and a random space related image is instead fetched from the Unsplash API. If there is no headline for the date and news category selected by the user a different error message is displayed. Both those scenarios are displayed in the above screenshot.
 
 ## 5. Debug client side JS in our web browser
-<img width="1156" alt="image" src="https://github.com/GeorgeKlemperer/george-portfolio/assets/124908931/6c08d941-581e-487b-be48-417e0bac1b6c">
+<img width="100%" alt="image" src="https://github.com/GeorgeKlemperer/george-portfolio/assets/124908931/6c08d941-581e-487b-be48-417e0bac1b6c">
 For debugging client-side JavaScript in our web browser, we extensively utilized Chrome's browser inspect tool, which allowed us to effectively test the code by setting breakpoints and pausing execution.
 
 ## 6. Use console.log() to help us debug our code
+Console.log() was regularly used to help debug, especially with API's where it can be useful to know if there are server-side problems.
 
-<img width="1224" alt="image" src="https://github.com/GeorgeKlemperer/george-portfolio/assets/124908931/c0ddb64c-6b81-4426-b019-406f9639947f">
+<img width="100%" alt="image" src="https://github.com/GeorgeKlemperer/george-portfolio/assets/124908931/5be96b7c-9300-4966-87d9-5053aa0d9017">
+
+Also, to gain insights into the data retrieved from the API's database and facilitate the data processing for user display, we utilized console.log(data). This helped us understand the content of the data and enabled us to make informed decisions on how to handle and present it effectively.
+
+<img width="100%" alt="image" src="https://github.com/GeorgeKlemperer/george-portfolio/assets/124908931/c0ddb64c-6b81-4426-b019-406f9639947f">
