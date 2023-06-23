@@ -1,4 +1,4 @@
-# httpProject: The Orbituaries
+# httpProject: The ORBIT-uaries
 A project built for practicing interacting with public APIs. Enter a date and a news category on the website to generate an image of NASA's astrology picture of the day (APOD) for that day overlayed with the Guardian's main headline for that day and news genre. The APIs utlized in the website are NASA's apod API, The Guardian API, and Unsplash.
 
 All Founders and Coders projects are collaborative between two people. My partner for this project was Isobel Butler.
