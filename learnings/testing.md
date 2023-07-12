@@ -1,4 +1,10 @@
-# Testing portfolio
+# testingProject: Bullet Journal
+
+A to-do list application, in the style of a bullet journal, built using test driven development.
+
+All Founders and Coders projects are collaborative between two people. My partner for this project was Dylan Cobb.
+
+View web page here: https://georgeklemperer.github.io/bulletJournal/.
 
 ## 1. Check that passing a given input into our tests returns the expected output
 
