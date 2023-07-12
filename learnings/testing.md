@@ -43,6 +43,29 @@ the above addItemUsingTemplate() function also adds event listeners to to-do lis
 
 ## 6. Use scope to control what variables are accessible inside functions and blocks
 
+We delineated a number of global variables, so that they could be accessed by different functions. Meanwhile, other varables were made specific to functions, so local in scope, by being declared inside the functions. 
+
 ## 7. Use CSS grid to create complex layouts
 
+CSS grid was used to precisely layout the layouts elements. This was especially required so that the to-do list tasks would be written exactly between the bullets, like in a real bullet journal.
+
+<img width="100%" alt="image" src="https://github.com/GeorgeKlemperer/george-portfolio/assets/124908931/2b4c4fb1-63b9-4689-9910-236207973915">
+
+This is the result:
+
+<img width="100%" alt="image" src="https://github.com/GeorgeKlemperer/bulletJournal/assets/124908931/10f8f4f5-ecd5-4e80-a13f-ff93ecef6581">
+
 ## 8. Use CSS grid to make layouts that adapt to the viewport size
+
+@media queries were used to make the application responsive for mobile phones.
+
+<div align=center>
+<img width="533" alt="image" src="https://github.com/GeorgeKlemperer/george-portfolio/assets/124908931/3537a275-184d-45b7-8af1-b6be54e0633b">
+</div>
+
+This is the result:
+
+<div align=center>
+<img width="408" alt="image" src="https://github.com/GeorgeKlemperer/george-portfolio/assets/124908931/be6dd50a-73f3-4102-882e-a029e2f2cc4b">
+</div>
+
